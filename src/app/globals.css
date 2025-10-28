@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global dark mode base styles */
+html, body {
+  background-color: theme('colors.background');
+  color: theme('colors.textPrimary');
+  font-family: theme('fontFamily.sans');
+}
