@@ -176,3 +176,4 @@ You can set up a Notion workspace called **TradeMind HQ** with the following pag
 
 Create additional top‑level checklists for your daily build tasks and goals.  
 You can also import the SQL schema above and the `src/` folder into your development environment to bootstrap the next phases of the project.
+# trademind-2
