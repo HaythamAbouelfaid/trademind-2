@@ -1,4 +1,13 @@
 {
-  "/pricing/page": "app/pricing/page.js",
-  "/api/checkout/route": "app/api/checkout/route.js"
+  "/_not-found": "app/_not-found.js",
+  "/api/analyze/route": "app/api/analyze/route.js",
+  "/ai/page": "app/ai/page.js",
+  "/api/waitlist/route": "app/api/waitlist/route.js",
+  "/landing/page": "app/landing/page.js",
+  "/page": "app/page.js",
+  "/learn/page": "app/learn/page.js",
+  "/api/learn/route": "app/api/learn/route.js",
+  "/api/checkout/route": "app/api/checkout/route.js",
+  "/trade/page": "app/trade/page.js",
+  "/pricing/page": "app/pricing/page.js"
 }
